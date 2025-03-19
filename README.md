@@ -1,5 +1,5 @@
 # OLA-Ride-Data-Analysis
-# OLA Ride Data Analysis
+
 
 ## 📌 Project Overview
 This project analyzes ride data from OLA using SQL and Power BI to extract insights into booking trends, customer behavior, cancellations, and revenue distribution. The analysis covers various SQL queries and Power BI visualizations for better decision-making.
